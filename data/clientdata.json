@@ -1,0 +1,39 @@
+{
+    "_id": {
+        "$oid": "644e105a1333fb03cc3929c6"
+    },
+    "agencyId": {
+        "$oid": "644e10591333fb03cc3929c4"
+    },
+    "name": "agency1_client1",
+    "email": "agency1@gmail.com",
+    "phoneNumber": {
+        "$numberDouble": "8888888881.0"
+    },
+    "totalBill": {
+        "$numberInt": "12500"
+    },
+    "__v": {
+        "$numberInt": "0"
+    }
+}
+
+{
+    "_id": {
+        "$oid": "644e10da1333fb03cc3929ca"
+    },
+    "agencyId": {
+        "$oid": "644e10d91333fb03cc3929c8"
+    },
+    "name": "agency2_client2_updated ",
+    "email": "agency2_updated@gmail.com",
+    "phoneNumber": {
+        "$numberDouble": "8888888882.0"
+    },
+    "totalBill": {
+        "$numberInt": "999999"
+    },
+    "__v": {
+        "$numberInt": "0"
+    }
+}
