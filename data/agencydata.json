@@ -1,0 +1,33 @@
+{
+    "_id": {
+        "$oid": "644e10591333fb03cc3929c4"
+    },
+    "name": "agency 1",
+    "address1": "test adress 1",
+    "address2": "test adress 2",
+    "state": "kar",
+    "city": "banglore",
+    "phoneNumber": {
+        "$numberDouble": "9999999991.0"
+    },
+    "__v": {
+        "$numberInt": "0"
+    }
+}
+
+{
+    "_id": {
+        "$oid": "644e10d91333fb03cc3929c8"
+    },
+    "name": "agency 2",
+    "address1": "test adress 1",
+    "address2": "test adress 2",
+    "state": "kar",
+    "city": "banglore",
+    "phoneNumber": {
+        "$numberDouble": "9999999992.0"
+    },
+    "__v": {
+        "$numberInt": "0"
+    }
+}
